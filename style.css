@@ -1,0 +1,43 @@
+.navbar{
+    background-color: rgba(0, 128, 0, 0.705);
+    font-size: 20px;
+}
+
+.container-edit1{
+    background-color: #00afef;
+    color: white;
+}
+
+.espaco{
+   padding-top:40px;
+   padding-bottom: 30px ;
+}
+
+
+.container-edit2{
+    background-color: rgb(161, 219, 0);
+}
+
+.espaco2{
+    padding:20px;
+    padding-bottom:30px;    
+}
+
+.container-edit3{
+    background-color: rgb(173, 0, 226);
+    color: white;
+    
+    
+}
+
+.espaco3{
+    padding: 10px;
+    padding-bottom: px;    
+}
+
+footer{
+    background-color: rgb(219, 208, 208);
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
